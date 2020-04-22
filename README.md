@@ -4,4 +4,4 @@ https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-ori
 
 上記のサイトを元に作成しました。
 
-使いやすいように改善していきます。
+PHPの手続き型でブログのツールを作成しました。
