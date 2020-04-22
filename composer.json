@@ -1,0 +1,21 @@
+{
+    "name": "abcmn/cms",
+    "require-dev": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "require": {
+        "pusher/pusher-php-server": "^4.1",
+        "vlucas/phpdotenv": "v2.6.1"
+    },
+
+    "autoload": {
+
+        "classmap": [
+
+            "classes"
+
+        ]
+
+    }
+
+}
